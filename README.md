@@ -1,2 +1,0 @@
-# Arreglos
-Utilizacion de Arreglos
